@@ -1,0 +1,9 @@
+{
+	"name": "ACGFACTORYCORNDEL",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "58bf88b1-3d76-499b-8138-2962eab60c63",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
